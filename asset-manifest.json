@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nkushwaha1993.github.io/csb-ng4t98/static/css/main.66519964.chunk.css",
+    "main.js": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/main.e6870a6b.chunk.js",
+    "main.js.map": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/main.e6870a6b.chunk.js.map",
+    "runtime-main.js": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/runtime-main.1221c2f5.js",
+    "runtime-main.js.map": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/runtime-main.1221c2f5.js.map",
+    "static/js/2.b1ed7a21.chunk.js": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/2.b1ed7a21.chunk.js",
+    "static/js/2.b1ed7a21.chunk.js.map": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/2.b1ed7a21.chunk.js.map",
+    "index.html": "https://nkushwaha1993.github.io/csb-ng4t98/index.html",
+    "static/css/main.66519964.chunk.css.map": "https://nkushwaha1993.github.io/csb-ng4t98/static/css/main.66519964.chunk.css.map",
+    "static/js/2.b1ed7a21.chunk.js.LICENSE.txt": "https://nkushwaha1993.github.io/csb-ng4t98/static/js/2.b1ed7a21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1221c2f5.js",
+    "static/js/2.b1ed7a21.chunk.js",
+    "static/css/main.66519964.chunk.css",
+    "static/js/main.e6870a6b.chunk.js"
+  ]
+}
